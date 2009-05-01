@@ -22,7 +22,13 @@ h2 {
 }
 h3 { text-align: center; color: #0072e0; }
 
-a { color: #0072e0; }
+a { 
+  color: #0072e0;
+}
+
+li {
+  line-height: 24px;
+}
 
 .nav {
   top: 0;
